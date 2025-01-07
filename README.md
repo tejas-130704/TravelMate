@@ -121,7 +121,7 @@ Helps users estimate travel costs for different transport options.
 - Django installed  
 
 
-### Note on Code Availability  
+# Note on Code Availability  
 
 The code for **TravelMate** is not open-sourced at this time. This decision is due to the inclusion of sensitive and proprietary components that are crucial to maintaining the platform's security and effectiveness. 
 
